@@ -1,9 +1,10 @@
 <h1 align="center">I'm Ameen</h1>
 <h3 align="center">a Full-Stack Software Engineer based in DFW</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amahouch&label=Profile%20views&color=4d7893&style=flat" alt="amahouch" /> </p>
 
 - 🌱 I’m currently learning **.NET, React Native**
+
+- 📚 Senior studying Software Engineering at UTA
 
 - 📫 Reach me at **amahouch02@gmail.com**
 
@@ -18,4 +19,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amahouch&show_icons=true&theme=dark&locale=en&layout=compact" alt="amahouch" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amahouch&show_icons=true&theme=dark&locale=en" alt="amahouch" /></p>
