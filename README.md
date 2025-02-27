@@ -1,7 +1,6 @@
 <h1 align="center">Ameen M.</h1>
-<h3 align="center">a Full-Stack Software Engineer based in DFW</h3>
 
-- 📚 Senior studying Software Engineering at UTA
+- 📚 UTA Alum
 
 - 📫 Reach me at **amahouch02@gmail.com**
 
